@@ -1,2 +1,2 @@
 # DemoChat
-This is sample project to understand logic implementation of '@' mention with chatting input.
+This is sample project to understand logic implementation of '@' mention with chatting input. This project is just for understanding of code which will triggered suggestion panel of usernames in group chat, hashtags, etc on pressing some special keywords like `@``#``$``%``&``*`. In this demo project whenever user fires `@` keyword from keyboard it will trigger username suggestion list and showing as a tappable list. On tap of specific name it will appending in text.
