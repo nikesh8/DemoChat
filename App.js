@@ -319,7 +319,7 @@ const styles = StyleSheet.create({
   },
   modalContainer: {
     position: 'absolute',
-    bottom: Dimensions.get('window').width / 2 + 120,
+    bottom: Dimensions.get('window').width / 2 + 120, // Give bottom as per your requirement here I have given with keyboard height and composer input height
     justifyContent: 'flex-end',
     alignSelf: 'center',
     margin: 0,
